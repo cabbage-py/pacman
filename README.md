@@ -1,6 +1,9 @@
 # pacman
 A code challenge for IE Digital
 
+Programming language + Version: Python3
+To run the code: python main.py OR python3 main.py
+
 Code Assumptions:
  - Commands are to be given in a readable text filename
  - Pacman is on a 5 x 5 grid, from index 0-4 on the x and y axis
