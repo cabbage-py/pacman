@@ -1,0 +1,22 @@
+
+PLACE 0,0,NORTH
+
+MOVE
+
+MOVE
+
+MOVE
+
+MOVE
+
+MOVE
+
+MOVE
+
+MOVE
+
+MOVE
+
+REPORT
+
+Output: 0,4,NORTH

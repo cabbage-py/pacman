@@ -1,0 +1,15 @@
+PLACE 0,0,WEST
+
+MOVE
+
+LEFT
+
+place 3,3,NORTH
+
+MOVE
+
+LEFT
+
+REPORT
+
+Output: 3,4,WEST

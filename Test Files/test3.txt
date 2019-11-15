@@ -1,0 +1,18 @@
+c)
+
+PLACE 1,2,EAST
+
+
+asdasd
+
+MOVE
+
+MOVE
+
+LEFT
+
+MOVE
+
+REPoRT
+
+Output: 3,3,NORTH
