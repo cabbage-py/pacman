@@ -2,6 +2,7 @@
 A code challenge for IE Digital
 
 Programming language + Version: Python3
+
 To run the code: python main.py OR python3 main.py
 
 Code Assumptions:
